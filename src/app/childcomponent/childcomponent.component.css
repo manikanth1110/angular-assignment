@@ -1,0 +1,23 @@
+.child{
+    background-image: url(../../img/2.jpg)
+    ; 
+    
+    
+}
+
+ .labels{
+    
+    margin: 50px;
+ }
+ .para{
+     margin: left;
+     margin:10px;
+ }
+ .C{
+     color:red;
+     font-size:20px;
+ }
+ .inp{
+     color:brown;
+    font-size:15px;
+ }

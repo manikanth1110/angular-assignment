@@ -1,0 +1,23 @@
+.parent{
+    width: 700px;
+    height: 300px;
+    background-image: url(../img/1.jpg);;
+}
+ .labels{
+    
+    margin: 50px;
+ }
+  .para{
+     margin: left;
+     margin:10px;
+    
+ }
+ 
+ .P{
+    color: green;
+    font-size:20px;
+ }
+ .inp{
+     color:brown;
+     font-size:15px;
+ }
